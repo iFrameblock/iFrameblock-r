@@ -1,4 +1,0 @@
-iFrameblock-r
-=============
-
-iFrame blockеr
